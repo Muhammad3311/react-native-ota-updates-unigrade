@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "downloadAndroidUrl": "https://cdn.jsdelivr.net/gh/Muhammad3311/react-native-ota-updates-unigrade/ota/index.android.bundle.zip",
     "downloadIosUrl": "https://cdn.jsdelivr.net/gh/Muhammad3311/react-native-ota-updates-unigrade/ota/main.jsbundle.zip"
   }
