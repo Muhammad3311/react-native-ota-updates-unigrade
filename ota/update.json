@@ -1,6 +1,8 @@
 {
-    "version": 2,
-    "downloadAndroidUrl": "https://cdn.jsdelivr.net/gh/Muhammad3311/react-native-ota-updates-unigrade/ota/index.android.bundle.zip",
-    "downloadIosUrl": "https://cdn.jsdelivr.net/gh/Muhammad3311/react-native-ota-updates-unigrade/ota/main.jsbundle.zip"
+  "android": {
+    "version": "1.0.1",
+    "description": "Bug fixes and performance improvements",
+    "url": "https://github.com/yourusername/your-repo/releases/download/v1.0.1/android.bundle",
+    "mandatory": false
   }
-  
+}
